@@ -4,15 +4,20 @@ repo: uptime # The name of this repository
 
 sites:
   - name: SKIILLZ
-    url: https://www.skiillz.com
+    url: $SKIILLZ
   - name: Eufonie
-    url: https://www.eufonie.fr
+    url: $EUFONIE
   - name: Odoo Eufonie
-    url: https://gestion.eufonie.fr
+    url: $ODOO
   - name: Moodle
-    url: https://cours.skiillz.com/enrol/index.php?id=789
+    url: $MOODLE
+    method: GET
   - name: Click
-    url: https://click.eufonie.fr
+    url: $CLICK
+  - name: Guide Maurice
+    url: $GUIDE_M
+  - name: Maurice
+    url: $MAURICE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
