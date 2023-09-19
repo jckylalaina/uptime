@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2703,
-    "timeDay": 2703,
-    "timeWeek": 2703,
-    "timeMonth": 2703,
-    "timeYear": 2703,
+    "time": 2717,
+    "timeDay": 2717,
+    "timeWeek": 2717,
+    "timeMonth": 2717,
+    "timeYear": 2717,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1867,
-    "timeDay": 1867,
-    "timeWeek": 1867,
-    "timeMonth": 1867,
-    "timeYear": 1867,
+    "time": 1966,
+    "timeDay": 1966,
+    "timeWeek": 1966,
+    "timeMonth": 1966,
+    "timeYear": 1966,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1419,
-    "timeDay": 1419,
-    "timeWeek": 1419,
-    "timeMonth": 1419,
-    "timeYear": 1419,
+    "time": 1396,
+    "timeDay": 1396,
+    "timeWeek": 1396,
+    "timeMonth": 1396,
+    "timeYear": 1396,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cours.skiillz.com.ico",
     "slug": "moodle",
     "status": "down",
-    "uptime": "59.84%",
-    "uptimeDay": "59.84%",
-    "uptimeWeek": "59.84%",
-    "uptimeMonth": "59.84%",
-    "uptimeYear": "59.84%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-19": 70,
+      "2023-09-18": 768
     }
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 858,
-    "timeWeek": 858,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "time": 865,
+    "timeDay": 865,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {}
   }
 ]
