@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-19": 754,
+      "2023-09-19": 810,
       "2023-09-18": 768
     }
   },
@@ -97,19 +97,19 @@
     "url": "$GUIDE_M",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guide-maurice",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 3424,
-    "timeDay": 3424,
-    "timeWeek": 3424,
-    "timeMonth": 3424,
-    "timeYear": 3424,
+    "status": "up",
+    "uptime": "78.53%",
+    "uptimeDay": "78.53%",
+    "uptimeWeek": "78.53%",
+    "uptimeMonth": "78.53%",
+    "uptimeYear": "78.53%",
+    "time": 3120,
+    "timeDay": 3120,
+    "timeWeek": 3120,
+    "timeMonth": 3120,
+    "timeYear": 3120,
     "dailyMinutesDown": {
-      "2023-09-19": 0
+      "2023-09-19": 56
     }
   },
   {
