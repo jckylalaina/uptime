@@ -1,7 +1,7 @@
-url: https://gestion.eufonie.fr
+url: $ODOO
 status: up
 code: 200
-responseTime: 1372
-lastUpdated: 2023-09-18T23:01:15.274Z
+responseTime: 2994
+lastUpdated: 2023-09-19T09:08:05.978Z
 startTime: 2023-09-18T11:12:02.831Z
 generator: Upptime <https://github.com/upptime/upptime>
