@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 772,
+      "2023-09-20": 789,
       "2023-09-19": 1440,
       "2023-09-18": 768
     }
@@ -80,19 +80,19 @@
     "url": "$CLICK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "click",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 715,
-    "timeDay": 580,
-    "timeWeek": 715,
-    "timeMonth": 715,
-    "timeYear": 715,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 674,
+    "timeDay": 547,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-09-20": 0
+      "2023-09-20": 17
     }
   },
   {
@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guide-maurice",
     "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.63%",
+    "uptime": "96.66%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 3008,
     "timeDay": 2800,
     "timeWeek": 3008,
