@@ -4,19 +4,19 @@
     "url": "$SKIILLZ",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "skiillz",
-    "status": "down",
-    "uptime": "96.64%",
-    "uptimeDay": "86.32%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "96.64%",
-    "time": 2471,
-    "timeDay": 2437,
-    "timeWeek": 2471,
-    "timeMonth": 2471,
-    "timeYear": 2471,
+    "status": "up",
+    "uptime": "96.65%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "96.65%",
+    "time": 2462,
+    "timeDay": 2425,
+    "timeWeek": 2462,
+    "timeMonth": 2462,
+    "timeYear": 2462,
     "dailyMinutesDown": {
-      "2023-09-22": 197
+      "2023-09-22": 198
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-22": 773,
+      "2023-09-22": 808,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
