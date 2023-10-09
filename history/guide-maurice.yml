@@ -1,7 +1,7 @@
 url: $GUIDE_M
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-09T04:57:08.901Z
+status: up
+code: 200
+responseTime: 3102
+lastUpdated: 2023-10-09T08:46:30.772Z
 startTime: 2023-09-19T09:08:28.191Z
 generator: Upptime <https://github.com/upptime/upptime>
