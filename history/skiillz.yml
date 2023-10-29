@@ -1,7 +1,7 @@
 url: $SKIILLZ
-status: up
-code: 200
-responseTime: 2733
-lastUpdated: 2023-10-28T23:01:07.786Z
+status: down
+code: 500
+responseTime: 6999
+lastUpdated: 2023-10-29T13:35:09.134Z
 startTime: 2023-09-18T11:11:57.043Z
 generator: Upptime <https://github.com/upptime/upptime>
