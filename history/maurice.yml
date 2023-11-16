@@ -1,7 +1,7 @@
 url: $MAURICE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-15T23:02:22.489Z
+status: up
+code: 200
+responseTime: 1360
+lastUpdated: 2023-11-16T17:08:00.930Z
 startTime: 2023-09-19T09:08:30.528Z
 generator: Upptime <https://github.com/upptime/upptime>
