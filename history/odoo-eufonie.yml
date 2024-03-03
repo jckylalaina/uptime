@@ -1,7 +1,7 @@
 url: $ODOO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-03T12:51:21.596Z
+status: up
+code: 200
+responseTime: 1327
+lastUpdated: 2024-03-03T19:36:49.163Z
 startTime: 2023-09-18T11:12:02.831Z
 generator: Upptime <https://github.com/upptime/upptime>
